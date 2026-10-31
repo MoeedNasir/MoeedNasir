@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,25,30&height=190&section=header&text=Moeed%20Nasir&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Odoo%20Developer%20%7C%20Odoo%20Certified%20Consultant%20%7C%20Odoo%20ERP%20Implementer&descSize=16&descAlignY=56" width="100%" alt="Moeed Nasir — Odoo Developer, Certified Consultant, ERP Implementer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=714B67,875A7B,00A09D&height=190&section=header&text=Moeed%20Nasir&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Odoo%20Developer%20%7C%20Odoo%20Certified%20Consultant%20%7C%20Odoo%20ERP%20Implementer&descSize=16&descAlignY=56" width="100%" alt="Moeed Nasir — Odoo Developer, Certified Consultant, ERP Implementer" />
 
 <div align="center">
 
