@@ -34,27 +34,6 @@ My rule is simple: **understand the workflow first, write code second.** Softwar
 | **Fix what's slow or broken** | Bug fixing, PostgreSQL tuning, and cleaning up architecture so the system stays fast |
 | **Keep it running** | Deployments on Odoo.sh, AWS, or self-hosted servers, plus training, documentation, and ongoing support |
 
----
-
-## 🧩 Odoo Modules I Work With
-
-<div align="center">
-
-<img src="assets/modules/sales.svg" width="108" alt="Odoo Sales" />
-<img src="assets/modules/crm.svg" width="108" alt="Odoo CRM" />
-<img src="assets/modules/purchase.svg" width="108" alt="Odoo Purchase" />
-<img src="assets/modules/inventory.svg" width="108" alt="Odoo Inventory" />
-<img src="assets/modules/accounting.svg" width="108" alt="Odoo Accounting" />
-
-<img src="assets/modules/manufacturing.svg" width="108" alt="Odoo Manufacturing" />
-<img src="assets/modules/pos.svg" width="108" alt="Odoo POS" />
-<img src="assets/modules/hr.svg" width="108" alt="Odoo HR and Payroll" />
-<img src="assets/modules/ecommerce.svg" width="108" alt="Odoo eCommerce" />
-<img src="assets/modules/website.svg" width="108" alt="Odoo Website" />
-
-</div>
-
----
 
 ## 🧭 How I Work
 
@@ -71,8 +50,6 @@ My rule is simple: **understand the workflow first, write code second.** Softwar
 - 🔌 API integration patterns for connecting Odoo to the outside world
 - ⬆️ Migration and upgrade work from real client systems
 - ⚙️ Automation ideas for the manual work every business wants to delete
-
-> 💡 Exploring a repo and wondering "would this fit my Odoo?" — just ask. I usually reply within **2 hours**.
 
 ---
 
