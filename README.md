@@ -53,16 +53,6 @@ My rule is simple: **understand the workflow first, write code second.** Softwar
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="165" alt="Moeed's GitHub streak" />
-
-</div>
-
----
-
 ## 📩 Work With Me
 
 Got an Odoo system to build, fix, or untangle? I'd rather hear about the problem than send you a brochure.
