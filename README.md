@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=714B67,875A7B,00A09D&height=190&section=header&text=Moeed%20Nasir&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Odoo%20Developer%20%7C%20Odoo%20Certified%20Consultant%20%7C%20Odoo%20ERP%20Implementer&descSize=16&descAlignY=56" width="100%" alt="Moeed Nasir — Odoo Developer, Certified Consultant, ERP Implementer" />
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=875A7B&center=true&vCenter=true&width=720&lines=I+build+Odoo+systems+that+run+businesses;Custom+modules.+Integrations.+Migrations.;Workflows+first,+features+second;100%2B+Odoo+projects+delivered" alt="Typing animation: I build Odoo systems that run businesses" />
@@ -8,6 +7,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![QWeb](https://img.shields.io/badge/QWeb-714B67?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-F05133?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
 
 </div>
 
