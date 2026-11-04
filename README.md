@@ -19,7 +19,7 @@
 
 I'm **Moeed Nasir**, I spend my days inside Odoo, turning messy business operations into systems people actually enjoy using.
 
-For the last **5+ years** I've shipped **100+ Odoo projects** for manufacturers, retailers, online stores, traders, and service companies. Sometimes that's a full ERP rollout from a blank database. Sometimes it's rescuing a system that's already live and quietly frustrating everyone who touches it.
+For the last **3+ years** I've shipped **100+ Odoo projects** for manufacturers, retailers, online stores, traders, and service companies. Sometimes that's a full ERP rollout from a blank database. Sometimes it's rescuing a system that's already live and quietly frustrating everyone who touches it.
 
 My rule is simple: **understand the workflow first, write code second.** Software built the other way round is how ERPs end up abandoned.
 
